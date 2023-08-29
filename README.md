@@ -13,8 +13,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/UltraVioletMedia?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/UltraVioletMedia/Mishri-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/UltraVioletMedia/Mishri-MD-V2?color=white&style=flat-square"></a>
-<a href="https://github.com/UltraVioletMedia/Mishri-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/UltraVioletMedia/Mishri-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/UltraVioletMedia/Mishri-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/UltraVioletMedia/Mishri-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/UltraVioletMedia/Mishri-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/UltraVioletMedia/Mishri-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/UltraVioletMedia/Mishri-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/UltraVioletMedia/Mishri-MD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/UltraVioletMedia/Mishri-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/UltraVioletMedia/Mishri-MD/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
